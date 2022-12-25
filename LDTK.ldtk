@@ -1843,6 +1843,20 @@
 							"defUid": 5,
 							"px": [1216,256],
 							"fieldInstances": []
+						},
+						{
+							"__identifier": "Land",
+							"__grid": [55,25],
+							"__pivot": [0,0],
+							"__tags": [],
+							"__tile": null,
+							"__smartColor": "#94D9B3",
+							"iid": "e4321cb0-7820-11ed-8715-cfbfc8d35e6c",
+							"width": 64,
+							"height": 48,
+							"defUid": 5,
+							"px": [880,400],
+							"fieldInstances": []
 						}
 					]
 				},
